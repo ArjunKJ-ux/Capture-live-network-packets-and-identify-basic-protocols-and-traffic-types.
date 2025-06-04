@@ -1,5 +1,4 @@
 # Capture-live-network-packets-and-identify-basic-protocols-and-traffic-types
-
 ## Tools Used
 - Wireshark
 - Kali Linux
@@ -13,8 +12,4 @@
 ## Protocols Identified
 - **ARP** – Used to find MAC addresses on the network.
 - **DNS** – Used to resolve domain names like `google.com`.
-- **ICMP** – Seen in ping requests to check connectivity.
-
-## Screenshot
-( screenshot image here.)
-
+- **ICMP** – Seen in ping requests to check connectivity
